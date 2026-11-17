@@ -1,2 +1,2 @@
-# AtCoder_ABC
-Code I submitted in AtCoder ABC contests.
+# AtCoder ABC Contests
+Code I have submitted during previous AtCoder ABC contests.
